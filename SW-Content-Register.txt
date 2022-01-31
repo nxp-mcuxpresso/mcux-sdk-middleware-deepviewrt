@@ -1,0 +1,25 @@
+DeepviewRT Library         Name: DeepviewRT Library                          
+                           Version: 2.4.20                                   
+                           Outgoing License: LA_OPT_NXP_Software_License - No
+                           distribution permitted, license in Section 2.2    
+                           applies.                                          
+                           License File: LA_OPT_NXP_Software_License.txt     
+                           Format: machine learning library and header file  
+                           Description: Au-Zone DeepViewRT and ModelRunner   
+                           License.                                          
+                           Location: lib                                     
+                           Origin: Au-Zone (proprietary)                     
+                           Url: https://embeddedml.com                       
+
+DeepviewRT Sample          Name: DeepviewRT Sample                           
+                           Version: 1.0.0                                    
+                           Outgoing License: LA_OPT_NXP_Software_License -   
+                           Additional distribution license granted, license  
+                           in Section 2.3 applies.                           
+                           License File: LA_OPT_NXP_Software_License.txt     
+                           Format: source code                               
+                           Description: Utilities and project examples for   
+                           deepviewRT.                                       
+                           Location: ./                                      
+                           Origin: NXP (Proprietary)/Au-Zone (proprietary)   
+                           Url: https://embeddedml.com                       
