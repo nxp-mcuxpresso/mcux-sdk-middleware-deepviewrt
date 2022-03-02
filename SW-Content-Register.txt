@@ -1,5 +1,5 @@
 DeepviewRT Library         Name: DeepviewRT Library                          
-                           Version: 2.4.20                                   
+                           Version: 2.4.36                                   
                            Outgoing License: LA_OPT_NXP_Software_License - No
                            distribution permitted, license in Section 2.2    
                            applies.                                          
